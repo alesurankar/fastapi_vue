@@ -1,0 +1,20 @@
+# Backend virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# SQLite databases
+*.db
+
+# VS Code workspace settings
+.vscode/
+
+# Frontend
+frontend/
+
+# OS files
+.DS_Store
+Thumbs.db
