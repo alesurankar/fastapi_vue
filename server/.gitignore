@@ -8,6 +8,7 @@ __pycache__/
 
 # SQLite databases
 *.db
+.env
 
 # VS Code workspace settings
 .vscode/
