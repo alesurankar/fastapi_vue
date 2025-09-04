@@ -12,9 +12,6 @@ __pycache__/
 # VS Code workspace settings
 .vscode/
 
-# Frontend
-frontend/
-
 # OS files
 .DS_Store
 Thumbs.db
